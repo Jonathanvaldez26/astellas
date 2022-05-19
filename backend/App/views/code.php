@@ -10,7 +10,7 @@ echo $header;
                 <div class="row justify-content-center">
                     <div class="col-lg-5 text-center mx-auto">
                         <h1 class="text-dark mb-2 mt-5">¡Bienvenido!</h1>
-                        <p class="text-lead text-dark">MUSA, Mujer Salud 2022. </p>
+                        <p class="text-lead text-dark">ASTELLAS 2022. </p>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@ echo $header;
                                                 </div>
                                             </div>
                                             <div class="text-center">
-                                                <button style="background: #02DABE; color: #6238F6;" class="btn btn-faded-danger w-100 my-0 mb-2 ms-auto" type="submit" id="btn_registro_email"><b style="color: #FFFFFF">Verifique su código</b></button>
+                                                <button class="btn bg-gradient-faded-danger w-100 mt-1 mb-0" type="submit" id="btn_registro_email"><b style="color: #FFFFFF">Verifique su código</b></button>
                                                 <span class="text-muted text-sm" style="font-weight:bold; font-size: 15px">¿No ha recibido un código?<br><a href="javascript:0;" id="btn_reenviar_email">Reenviar un nuevo código</a>.</span>
                                             </div>
                                         </form>

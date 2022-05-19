@@ -9,7 +9,7 @@ echo $header;
                 <div class="row justify-content-center">
                     <div class="col-lg-5 text-center mx-auto">
                         <h1 class=" mb-2 mt-5">¡Bienvenido!</h1>
-                        <p class="text-lead text-dark">MUSA, Mujer Salud 2022. </p>
+                        <p class="text-lead text-dark">ASTELLAS 2022. </p>
                     </div>
                 </div>
             </div>
@@ -28,14 +28,14 @@ echo $header;
                                 <form class="form-horizontal" id="email_form" action="/Register/Success" method="POST">
                                     <div class="mb-3 form-group">
                                         <label style="font-weight:bold; font-size: 15px">Correo eléctronico institucional *</label>
-                                        <input type="email" id="email" name="email" class="form-control" placeholder="Ej. usuario@asofarma.com.mx" aria-label="Correo Eléctronico" required="required">
+                                        <input type="email" id="email" name="email" class="form-control" placeholder="Ej. usuario@astellas.com.mx" aria-label="Correo Eléctronico" required="required">
                                     </div>
                                     <div class="mb-3 form-group">
                                         <label style="font-weight:bold; font-size: 15px">Escribe nuevamente tu correo  *</label>
-                                        <input type="email" id="confirm_email" name="confirm_email" class="form-control" placeholder="Ej. usuario@asofarma.com.mx" aria-label="Confirmar tu Correo Eléctronico" required="required">
+                                        <input type="email" id="confirm_email" name="confirm_email" class="form-control" placeholder="Ej. usuario@astellas.com.mx" aria-label="Confirmar tu Correo Eléctronico" required="required">
                                     </div>  
                                     <div class="form-group text-center">
-                                        <button style="background: #02DABE;" class="btn btn-faded-danger w-100 my-4 mb-2 ms-auto" type="submit" id="btn_registro_email"><b style="color: #FFFFFF">Registrarme</b></button>
+                                        <button class="btn bg-gradient-faded-danger w-100 mt-1 mb-0" type="submit" id="btn_registro_email"><b style="color: #FFFFFF">Registrarme</b></button>
                                     </div>
                                     
                                 </form>

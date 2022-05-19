@@ -10,7 +10,7 @@ echo $header;
                 <div class="row justify-content-center">
                     <div class="col-lg-5 text-center mx-auto">
                         <h1 class="text-dark mb-2 mt-5">¡Bienvenido!</h1>
-                        <p class="text-lead text-dark">MUSA, Mujer Salud 2022. </p>
+                        <p class="text-lead text-dark">ASTELLAS 2022. </p>
                         <?php //var_dump($data); ?>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ echo $header;
                                         <input type="password" id="confirm_password" name="confirm_password" class="form-control" placeholder="Confirme su Contraseña" aria-label="Confirmar tu Password" required="required">
                                     </div>
                                     <div class="form-group text-center">
-                                        <button class="btn btn-outline-primary w-100 my-4 mb-2 ms-auto " type="submit" id="btn_registro_password">terminar mi Registro</button>
+                                        <button class="btn btn-outline-danger mt-4 w-100 ms-auto" type="submit" id="btn_registro_password">terminar mi Registro</button>
                                     </div>
                                     
                                 </form>

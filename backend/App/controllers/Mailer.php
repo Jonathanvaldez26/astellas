@@ -34,8 +34,8 @@ class Mailer
             $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
             //Recipients
-            $mail->setFrom($msg['email'], 'MUSA 2022 Registro');
-            $mail->addAddress($msg['email'], 'a');     //Add a recipient
+            $mail->setFrom($msg['email'], 'ASTELLAS 2022 Registro');
+            $mail->addAddress($msg['email'], 'a');     //Add a recipient correo del emisor
 
 
             $html = '     
@@ -83,13 +83,13 @@ class Mailer
         <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
                     
             <div class="container">
-                <img src="https://registro.foromusa.com/img/musa-01.png" alt="">
+                <img src="" alt=""><!--poner imagen desde el seridor eje. https://registro.foromusa.com/img/musa-01.png-->
                 <br>
                 <p>
-                    Estamos ansiosos de volverlo a ver…
+                    Estamos ansiosos de verte…
                 </p>
                 <p>
-                    Este mensaje se le envió porque usted está intentando registrar su cuenta de correo electrónico a <b>FORO MUSA Mujer Salud 2022</b>
+                    Este mensaje se le envió porque usted está intentando registrar su cuenta de correo electrónico a <b>ASTELLAS 2022</b>
                      Si no fue usted ignore este mensaje.
                 </p>
                 
@@ -101,7 +101,7 @@ class Mailer
                     Su código es: <span><b style="background: #e389;">'. $msg['code'] .'</b></span>
                 </p>
                 <p>
-                    El código es válido por 24 horas y sólo se puede usar una vez, atentamente su equipo ADIUM.
+                    El código es válido por 24 horas y sólo se puede usar una vez, atentamente su equipo ASTELLAS.
                 </p> 
                 
             </div>
@@ -147,7 +147,7 @@ class Mailer
             $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
             //Recipients
-            $mail->setFrom($msg['email'], 'MUSA 2022 Registro');
+            $mail->setFrom($msg['email'], 'ASTELLAS Registro');
             $mail->addAddress($msg['email'], 'a');     //Add a recipient
 
             $html = '     
@@ -195,10 +195,10 @@ class Mailer
                 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
                     
                     <div class="container">
-                    <img src="https://registro.foromusa.com/img/musa-01.png" alt="">
+                    <img src="" alt="">
                         <p style="text-align: center !important;">
                             Estimado, ' . $msg['name'] . ' : 
-                            <strong>¡Su registro a FORO MUSA Mujer Salud 2022 fue exitoso!</strong>
+                            <strong>¡Su registro a ASTELLAS 2022 fue exitoso!</strong>
                             
                         </p>
                     </div>

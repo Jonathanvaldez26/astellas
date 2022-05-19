@@ -11,7 +11,7 @@ echo $header;
                 <div class="row justify-content-center">
                     <div class="col-lg-5 text-center mx-auto">
                         <h1 class="text-dark mb-2 mt-5">¡Bienvenido!</h1>
-                        <p class="text-lead text-dark">MUSA, Mujer Salud 2022. </p>
+                        <p class="text-lead text-dark">ASTELLAS 2022. </p>
                     </div>
                 </div>
             </div>
@@ -176,7 +176,7 @@ echo $header;
                                                     <input type="hidden" id="email" name="email" value="<?= $email ?>">
                                                     <div id="terminos" class="card-header pt-4 text-scroll " style="text-align: justify;">
                                                         <!-- <p>Aquí van los terminos y condiciones</p> -->
-                                                        <span>
+                                                        <!-- <span>
 
                                                             Términos y Condiciones de Uso del sitio Foro LATAM MUSA
                                                             <br><br>
@@ -567,7 +567,7 @@ echo $header;
                                                             Condiciones permanecen vigentes.
                                                             <br><br>
                                                             Estos Términos y Condiciones fueron actualizados el 27/08/2021
-                                                        </span>
+                                                        </span> -->
                                                     </div>
                                                     <br>
                                                     <br>
@@ -603,7 +603,7 @@ echo $header;
                                                     <input type="hidden" id="email" name="email" value="<?= $email ?>">
                                                     <div id="terminos" class="card-header pt-4 text-scroll" style="text-align: justify;">
                                                         <!-- <p>Aquí van los terminos y condiciones</p> -->
-                                                        <span>
+                                                        <!-- <span>
 
                                                             I. IDENTIDAD Y DOMICILIO DEL RESPONSABLE:
                                                             <br> <br>
@@ -670,7 +670,7 @@ echo $header;
                                                             XI. CUMPLIMIENTO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES. Este aviso de privacidad cumple con los requisitos establecidos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares vigente y demás normatividad aplicable.
                                                             <br> <br>
                                                             Ultima actualización Diciembre 2020
-                                                        </span>
+                                                        </span> -->
                                                     </div>
                                                     <br>
                                                     <br>

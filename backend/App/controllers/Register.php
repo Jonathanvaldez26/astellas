@@ -22,9 +22,9 @@ class Register{
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="apple-touch-icon" sizes="76x76" href="../../../assets/img/aso_icon.png">
-        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/aso_icon.png">
+        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/logo.png">
         <title>
-            Registro MUSA
+            Registro ASTELLAS
         </title>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <!-- Nucleo Icons -->
@@ -204,7 +204,7 @@ html;
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon.png">
-        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/Musa0-01.png">
+        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/logo.png">
         <title>
             Registro - MUSA
         </title>
@@ -498,7 +498,7 @@ html;
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
             <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon.png">
-            <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/Musa0-01.png">
+            <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/logo.png">
             <title>
                 Registro - MUSA
             </title>
@@ -901,7 +901,7 @@ html;
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicon.png">
-        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/Musa0-01.png">
+        <link rel="icon" type="image/vnd.microsoft.icon" href="../../../assets/img/logo.png">
         <title>
             Registro - MUSA
         </title>
